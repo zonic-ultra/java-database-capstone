@@ -8,5 +8,4 @@ This Spring Boot application uses both MVC and REST controllers. Thymeleaf templ
 6. The repositories retrieve or persist the data and return it as model objects (JPA entities for MySQL or document models for MongoDB).
 7. The controller uses these models to send back the response—either rendering a Thymeleaf HTML page or returning JSON data to the client.
 
-8. 
 9. <img width="1405" height="813" alt="architecture-diagram" src="https://github.com/user-attachments/assets/aeadf53d-6b2d-4d7e-a121-12891b414cd0" />
