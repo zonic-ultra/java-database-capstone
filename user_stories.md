@@ -1,4 +1,4 @@
-**Patient User stories**  
+'##Patient User stories' 
 _As a patient, I want to view a list of doctors without logging in, so that I can explore options before registering._
 
 **Acceptance Criteria:**  
@@ -13,9 +13,7 @@ _As a patient, I want to view a list of doctors without logging in, so that I ca
 - Consider showing limited doctor details to non-logged-in users
 
 
-# Admin User Stories
-
-## User Story 1
+##Admin User Stories
 **Title:**  
 _As an admin, I want to log into the portal with my username and password, so that I can manage the platform securely._
 
@@ -29,7 +27,6 @@ _As an admin, I want to log into the portal with my username and password, so th
 
 ---
 
-## User Story 2
 **Title:**  
 _As an admin, I want to log out of the portal, so that I can protect system access._
 
@@ -42,8 +39,6 @@ _As an admin, I want to log out of the portal, so that I can protect system acce
 **Story Points:** 2  
 
 ---
-
-## User Story 3
 **Title:**  
 _As an admin, I want to add doctors to the portal, so that they can be available for patients._
 
@@ -55,10 +50,7 @@ _As an admin, I want to add doctors to the portal, so that they can be available
 **Priority:** High  
 **Story Points:** 5  
 
----
-
-## User Story 4
-**Title:**  
+---  
 _As an admin, I want to delete a doctor’s profile, so that I can remove inactive or invalid accounts._
 
 **Acceptance Criteria:**  
@@ -70,9 +62,6 @@ _As an admin, I want to delete a doctor’s profile, so that I can remove inacti
 **Story Points:** 4  
 
 ---
-
-## User Story 5
-**Title:**  
 _As an admin, I want to run a stored procedure in MySQL CLI, so that I can get the number of appointments per month and track usage statistics._
 
 **Acceptance Criteria:**  
@@ -83,7 +72,7 @@ _As an admin, I want to run a stored procedure in MySQL CLI, so that I can get t
 **Priority:** Medium  
 **Story Points:** 5  
 
-# Doctor User Stories
+'##Doctor User Stories'
 
 As a doctor, you can:
 
